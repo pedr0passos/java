@@ -11,7 +11,6 @@
 //     Date dataFabricacao;
 //     String fabricante;
 
-        } else {
 //     //Métodos
 //     public float calcImposto(int taxa) {
 //         float imposto;
