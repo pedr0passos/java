@@ -1,4 +1,4 @@
-package exercicios;
+package exercicios.slide_giuliano;
 
 import java.util.Scanner;
 

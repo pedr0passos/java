@@ -1,4 +1,4 @@
-package exercicios;
+package exercicios.slide_giuliano;
 
 public class Exe03 {
     public static void main(String[] args) {
